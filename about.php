@@ -33,11 +33,11 @@
                     <img src="photos/about.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="offset-sm-2 col-sm-5">
-                    <h6>About <span>Easy College</span></h6>
+                    <h6>About <span>GISAT</span></h6>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam eveniet illum, exercitationem alias voluptatibus in ut fuga recusandae quam. Perspiciatis rerum voluptate molestiae asperiores molestias officia doloremque tempora iusto animi? <br><br> Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci quia nemo aut voluptate labore quisquam ea, excepturi veritatis! Ratione ut voluptatum possimus pariatur architecto neque reprehenderit quisquam distinctio nam nisi.
+                    GISAT offers a plethora of UG and PG programmes. For admission to its various UG and PG programmes, including BTech, BBA, BA LLB (Hons), BBA LLB (Hons), LLM, B Com (Hons) and other courses, GISAT conducts its own university-level entrance examination GUET.
                     </p>
-                    <button class="btn">Read More</button>
+                    <button data-toggle="modal" data-target="#popupforlogin" class="btn font-weight-bold">Apply Now</button>
                 </div>
             </div>
         </div>
